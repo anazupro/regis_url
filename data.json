@@ -1,6 +1,8 @@
 {
   "gonime_org" : "https://gonime-app.vercel.app",
-  "otakudesu" : "https://otakudesu-unofficial-api.rzkfyn.xyz",
+  "otakudesu" : "https://go-nime-api.vercel.app",
+  "embedv1" : "null",
+  "embedv2" : "null",
   "name_app" : "GoNime",
   "version" : "1.0.0"
 }
