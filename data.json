@@ -1,8 +1,12 @@
 {
+  "status" : true,
   "gonime_org" : "https://gonime-app.vercel.app",
   "otakudesu" : "https://go-nime-api.vercel.app",
   "embedv1" : "null",
   "embedv2" : "null",
+  "embedv3" : "null",
   "name_app" : "GoNime",
-  "version" : "1.0.0"
+  "version" : "1.0.0",
+  "package" : "com.gonime.anasbex",
+  "classServer" : "paradox_anasbex.java"
 }
