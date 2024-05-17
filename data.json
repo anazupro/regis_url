@@ -1,5 +1,5 @@
 {
-  "status" : false,
+  "status" : "false",
   "gonime_org" : "https://gonime-app.vercel.app",
   "otakudesu" : "https://go-nime-api.vercel.app",
   "embedv1" : "null",
