@@ -2,6 +2,7 @@
   "status" : "true",
   "gonime_org" : "https://gonime-app.vercel.app",
   "otakudesu" : "https://go-nime-api.vercel.app",
+  "remote_dialog" : "https://anazupro.github.io/regis_url/MainDialog.json",
   "embedv1" : "null",
   "embedv2" : "null",
   "embedv3" : "null",
