@@ -6,6 +6,7 @@
   "embedv1" : "https://embeded-pro.vercel.app/",
   "embedv2" : "null",
   "embedv3" : "null",
+  "shop": "null",
   "name_app" : "GoNime",
   "version" : "1.0.0",
   "package" : "com.anasbex.gonime",
