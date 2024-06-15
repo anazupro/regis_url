@@ -11,7 +11,7 @@
   "embedv3" : "null",
   "shop": "null",
   "name_app" : "GoNime",
-  "version" : "1.0.0",
+  "version" : "1.0.1",
   "package" : "com.anasbex.gonime",
   "classServer" : "paradox_anasbex.java"
 }
