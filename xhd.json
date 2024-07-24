@@ -1,0 +1,37 @@
+[
+  {
+    "nameServer" : "GoNimeFastNet",
+    "icon" : "",
+    "type" : "true",
+    "urlServer" : "",
+    "icode" : "80:99:00:44:80:80"
+  },
+  {
+    "nameServer" : "CrabsNet",
+    "icon" : "",
+    "type" : "true",
+    "urlServer" : "",
+    "icode" : "90:99:00:87:80:80"
+  },
+  {
+    "nameServer" : "Keyla Global Server",
+    "icon" : "",
+    "type" : "true",
+    "urlServer" : "",
+    "icode" : "80:80:00:87:80:80"
+  },
+  {
+    "nameServer" : "AniFast",
+    "icon" : "",
+    "type" : "false",
+    "urlServer" : "",
+    "icode" : "80:49:00:00:80:80"
+  },
+  {
+    "nameServer" : "GoNimeLokal",
+    "icon" : "",
+    "type" : "false",
+    "urlServer" : "",
+    "icode" : "80:69:50:87:80:80"
+  }
+]
